@@ -1,1 +1,1 @@
-sudo apt-get  install lamp-server^ phpmyadmin
+sudo apt-get install -y lamp-server^ phpmyadmin
