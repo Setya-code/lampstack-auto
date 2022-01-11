@@ -2,12 +2,14 @@ Install lampstack-auto on ubuntu.
 
 auto install lamp stack apache, php, mysql, phpmyadmin
 
-clone this repository
+clone this repository, go folder:
 
 	- cd lampstack-auto
 	
-	- chmod +x install.sh
+	- run:
+	
+		- chmod +x install.sh
 	
 	- run:
 	
-			./install.sh
+		./install.sh
